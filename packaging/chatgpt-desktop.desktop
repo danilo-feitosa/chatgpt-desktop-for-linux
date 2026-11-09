@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=ChatGPT Desktop
+Comment=Cliente desktop Linux independente para ChatGPT Web (não oficial)
+Exec=chatgpt-desktop
+Icon=chatgpt-desktop
+Terminal=false
+Categories=Network;InstantMessaging;
+Keywords=ChatGPT;OpenAI;chat;AI;
+StartupNotify=true
+StartupWMClass=ChatGPT Desktop

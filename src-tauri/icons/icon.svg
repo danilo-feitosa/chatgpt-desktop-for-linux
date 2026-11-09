@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">ChatGPT Desktop icon</title>
+  <rect x="24" y="24" width="464" height="464" rx="96" fill="#171c23"/>
+  <path d="M112 132h288a56 56 0 0 1 56 56v120a56 56 0 0 1-56 56H238l-78 64v-64h-48a56 56 0 0 1-56-56V188a56 56 0 0 1 56-56z" fill="#10a37f"/>
+  <rect x="168" y="204" width="176" height="22" rx="11" fill="#e8edf2"/>
+  <rect x="168" y="252" width="112" height="22" rx="11" fill="#e8edf2"/>
+</svg>

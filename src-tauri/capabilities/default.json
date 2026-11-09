@@ -1,0 +1,7 @@
+{
+  "$schema": "../gen/schemas/desktop-schema.json",
+  "identifier": "desktop-windows",
+  "description": "Janelas do app (ChatGPT remoto e UI local). Sem permissões Tauri/IPC expostas ao conteúdo web.",
+  "windows": ["main", "about"],
+  "permissions": []
+}
